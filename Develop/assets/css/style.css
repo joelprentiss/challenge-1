@@ -32,9 +32,9 @@ body {
 }
 
 
-.header div ul li {
+.ul-li {
     display: inline-block;
-    margin-left: 25px;
+    margin-left: 160px;
 }
 
 a {
